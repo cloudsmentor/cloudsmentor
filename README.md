@@ -1,7 +1,10 @@
 # Victor
 
 <a href="https://mentorcruise.com/mentor/victorgarcia/">
-<img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise">
+<img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="480" alt="MentorCruise">
+</a>
+<a href="https://mentorcruise.com/mentor/victorgarcia/">
+<img src="https://mentorcruise.com/mentor/victorgarcia/widget/" loading="lazy" class="md:h-28" width="480" style="max-height: 140px" alt="">
 </a>
 
 
@@ -41,8 +44,6 @@ I am also a mentor to less experienced developers, and I am passionate about hel
 
 If you are interested in mentorship services, you can book a [free 15 minute meeting](https://cal.mentorcruise.com/cloudsmentor/15-minutes). Additional sessions & plans are available in [MentorCruise](https://mentorcruise.com/mentor/victorgarcia/)
 
-<a href="https://mentorcruise.com/mentor/victorgarcia/">
-<img src="https://mentorcruise.com/mentor/victorgarcia/widget/" loading="lazy" class="md:h-28" style="max-height: 140px" alt="">
-</a>
+
 
 
