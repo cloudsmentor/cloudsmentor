@@ -42,7 +42,7 @@ I am also a mentor to less experienced developers, and I am passionate about hel
 * 🏗️ **DevOps:** Docker, CI/CD, Terraform, Kubernetes
 * 👨‍💻 **Career advice:** how to grow your career, how to be a better developer, how to negotiate a salary, how to find a job in tech.
 
-If you are interested in mentorship services, you can book a [free 15 minute meeting](https://cal.mentorcruise.com/cloudsmentor/15-minutes). Additional sessions & plans are available in [MentorCruise](https://mentorcruise.com/mentor/victorgarcia/)
+If you are interested in mentorship services, you can book a [free 15 minute meeting](https://cal.com/cloudsmentor/15-minutes). Additional sessions & plans are available in [MentorCruise](https://mentorcruise.com/mentor/victorgarcia/)
 
 
 
